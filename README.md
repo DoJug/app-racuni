@@ -20,3 +20,5 @@ app.py je glavna, main funkcija koja pokreće cijeli kod aplikacije. Prilikom po
 funkcije.py sadržava sve funkcije koje su potrebne za rad aplikacije. 
 
 primjer_baze.py predstavlja moj primjer zamišljene baze.
+
+*NAPOMENA: ZA RAD "BRISANJE POSTOJEĆE BAZE" KORIŠTEN JE "send2trash" MODULE KOJI BRIŠE POSTOJEĆU BAZU I ŠALJE JU U RECYCLE BIN (KOŠ ZA SMEĆE). UKOLIKO U APLIKACIJI DOĐE DO POGREŠKE SA OPISOM "REPORTMISSINGMODULESOURCE" POTREBNO JE INSTALIRATI MODUL PUTEM COMMAND PROMPT-a UZ NAREDBU "pip install Send2Trash".  
