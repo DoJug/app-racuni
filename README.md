@@ -2,7 +2,7 @@ Pozdrav!
 Ovo je moja druga aplikacija nakon aplikacije "app-banka". 
 
 Aplikacija sadržava sljedeće funkcionalnosti:
-1. Ažuriranje baze
+1. Kreiranje/ažuriranje baze
 2. Prikazivanje baze
 3. Ažuriranje postojeće baze
 4. Brisanje postojeće baze
