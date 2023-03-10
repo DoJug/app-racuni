@@ -1,5 +1,5 @@
 Pozdrav!
-Ovo je moja druga aplikacija nakon "app-banka". 
+Ovo je moja druga aplikacija nakon aplikacije "app-banka". 
 
 Aplikacija sadržava sljedeće funkcionalnosti:
     1. Ažuriranje baze
